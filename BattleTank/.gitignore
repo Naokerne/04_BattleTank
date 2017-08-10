@@ -43,7 +43,6 @@
 *.sdf
 *.VC.db
 *.VC.opendb
-*.uasset
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -74,3 +73,6 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Starter content
+Content/StarterContent/*
